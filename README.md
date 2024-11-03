@@ -12,7 +12,7 @@
 
 Steps to build and/or run the software:
 
-1. Download the latest release add add it to your mods folder in forge
+1. Download the latest .jar file and add it to your mods folder in forge
 
 Instructions for using the software:
 
